@@ -1,0 +1,17 @@
+# 가상환경, 설치물
+.venv/
+node_modules/
+
+# 비밀 값
+.env
+.env.*
+!.env.example
+
+# 파이썬 캐시
+__pycache__/
+
+# 편집기 설정
+.vscode/
+
+# 노트북 임시 폴더
+.ipynb_checkpoints/
